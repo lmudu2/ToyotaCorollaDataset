@@ -1,2 +1,2 @@
 # ToyotaCorollaDataset
-Predict the price of the car using Random forest algorithm.
+Predict the price of the cars using Random forest algorithm.
